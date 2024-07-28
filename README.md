@@ -5,7 +5,7 @@ Downloadlib is a Node.js class for downloading content from various popular webs
 <div align="center">
 
 [![npm version](https://badge.fury.io/js/download-lib.svg)](https://badge.fury.io/js/downloadlib)
-![VIEWS](https://komarev.com/ghpvc/?username=mrhansamala-Download-Lib&label=REPOSITORY+VIEWS&style=for-the-badge)
+![VIEWS](https://komarev.com/ghpvc/?username=mrhansamala-download-lib&label=REPOSITORY+VIEWS&style=for-the-badge)
 
 </div>
 
